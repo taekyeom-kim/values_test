@@ -2,4 +2,4 @@ airflow:
   airflow:
     variables:
       - key: key1
-        value: Init
+        value: test-value-2
