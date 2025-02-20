@@ -2,7 +2,7 @@ airflow:
   airflow:
     variables:
       - key: key1
-        value: test-value-2
+        value: newnew
       - key: key-does-not-exists
         value: test-vallue-2
       - key: key-does-not-exists-2
