@@ -5,3 +5,5 @@ airflow:
         value: test-value-2
       - key: key-does-not-exists
         value: test-vallue-2
+      - key: key-does-not-exists-2
+        value: test-vallue--212312
